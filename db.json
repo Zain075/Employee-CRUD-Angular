@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "George",
+      "lastName": "Lopez R",
+      "email": "george123@gmail.com",
+      "dob": "2023-09-20T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "ABC Company",
+      "experience": 3,
+      "package": 12,
+      "id": 1
+    },
+    {
+      "firstName": "Ann",
+      "lastName": "Luke",
+      "email": "annluke123@gmail.com",
+      "dob": "2023-09-27T18:30:00.000Z",
+      "gender": "female",
+      "education": "Post Graduate",
+      "company": "ABC Company",
+      "experience": 2,
+      "package": 10,
+      "id": 2
+    }
+  ]
+}
